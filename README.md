@@ -53,4 +53,4 @@ Recreating someone else's polished site is a different kind of challenge compare
 
 ## Tech Stack
 
-HTML · CSS · Vanilla JS · GeneralSans Font
+HTML · CSS · Vanilla JS · GeneralSans Font Gsap Locomotive scrollTrigger 
